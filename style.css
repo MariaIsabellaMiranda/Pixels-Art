@@ -2,13 +2,6 @@
   text-align: center;
 }
 
-#title {
-
-};
-
-#color-palette {
-}
-
 .color {
 border: 1px solid black;
 display: inline-block;
@@ -17,6 +10,7 @@ width: 60px;
 }
 
 #pixel-board {
+  margin-top: 20px;
   line-height: 0%;
   width: auto  ;
 }
@@ -27,6 +21,10 @@ width: 60px;
   border: 1px solid black;
   display: inline-block;
   background-color: white;
+}
+
+#clear-board {
+  margin-top: 10px;
 }
 
 #preto {
