@@ -1,0 +1,45 @@
+* {
+  text-align: center;
+}
+
+#title {
+
+};
+
+#color-palette {
+}
+
+.color {
+border: 1px solid black;
+display: inline-block;
+height: 50px;
+width: 50px;
+}
+
+#preto {
+  background-color: black;
+}
+
+#vermelho {
+  background-color: red;
+}
+
+#azul {
+  background-color: blue;
+}
+
+#amarelo {
+  background-color: yellow;
+}
+
+#verde {
+  background-color: green;
+}
+
+#laranja {
+  background-color: orange;
+}
+
+#roxo {
+  background-color: purple;
+}
