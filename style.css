@@ -12,8 +12,21 @@
 .color {
 border: 1px solid black;
 display: inline-block;
-height: 50px;
-width: 50px;
+height: 80px;
+width: 80px;
+}
+
+#pixel-board {
+  line-height: 0%;
+  width: auto  ;
+}
+
+.pixel {
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+  display: inline-block;
+  background-color: white;
 }
 
 #preto {
@@ -30,16 +43,4 @@ width: 50px;
 
 #amarelo {
   background-color: yellow;
-}
-
-#verde {
-  background-color: green;
-}
-
-#laranja {
-  background-color: orange;
-}
-
-#roxo {
-  background-color: purple;
 }
