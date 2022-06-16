@@ -3,16 +3,16 @@
 }
 
 .color {
-border: 1px solid black;
-display: inline-block;
-height: 60px;
-width: 60px;
+  border: 1px solid black;
+  display: inline-block;
+  height: 60px;
+  width: 60px;
 }
 
 #pixel-board {
   margin-top: 20px;
   line-height: 0%;
-  width: auto  ;
+  width: auto;
 }
 
 .pixel {
