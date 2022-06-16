@@ -4,6 +4,7 @@ let cor = 'rgb(0, 0, 0)';
 const botaoLimpar = document.querySelector('#clear-board');
 const botaoInput = document.querySelector('#generate-board');
 const input = document.querySelector('#board-size');
+const botaoCores = document.querySelector('#generate-color');
 
 function criaQuadro(numeroQuadrados) {
   quadro.innerHTML = null;
@@ -71,6 +72,10 @@ function coresAleatorias() {
     cores[i].style.backgroundColor = `rgb( ${red}, ${green}, ${blue})`;
   }
 }
+
+botaoCores.addEventListener('click', () => {
+  coresAleatorias();
+});
 
 window.onload = () => {
   criaQuadro(5);
