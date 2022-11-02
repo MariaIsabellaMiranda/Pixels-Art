@@ -15,9 +15,9 @@ Uma paleta de cores onde o usuário consegue escolher a quantidade de pixels, al
 ## Como excutar o projeto
 
 - Clone o projeto para sua máquina local;
-- cd no diretório do projeto;
-- Rode npm install para instalar as dependências;
-- Abra o arquivo index.html
+- `cd` no diretório do projeto;
+- Rode `npm install` para instalar as dependências;
+- Abra o arquivo `index.html`;
 - Utilize uma ferramenta de sua preferência para rodar páginas HTML.
 
 ## Autor
@@ -27,3 +27,7 @@ Maria Isabella Miranda da Silva
 Linkedin: [@Maria Isabella](https://www.linkedin.com/in/maria-isabella-miranda/)
 
 Email: ma_isabella.miranda@hotmail.com
+
+## Mostre seu suporte
+
+Me dê uma ⭐️ se você gostou deste projeto!
