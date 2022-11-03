@@ -4,7 +4,8 @@
 # Sobre
 
 <p>Pixels Art foi um dos meus primeiros projetos realizados no curso da Trybe. Nele pude colocar em prática meu aprendizado até o momento.<br>
-Uma paleta de cores onde o usuário consegue escolher a quantidade de pixels, alterar as cores, apagar determinado pixel e limpar a tela.<p>
+Uma paleta de cores onde o usuário consegue escolher a quantidade de pixels, alterar as cores, apagar determinado pixel e limpar a tela.<br>
+Os testes para esse projeto foram elaborados pela Trybe, por isso não constam neste repositório<p>
 
 ## Construído com
 
